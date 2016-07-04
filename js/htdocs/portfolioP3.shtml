@@ -1,0 +1,64 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Bobby Li's Portfolio</title>
+<style type="text/css">
+body {
+	background-color: #000;
+	background-image: url(images/bg2.png);
+	background-repeat: repeat-x;
+}
+td {
+	padding-right:25px;
+	padding-left:25px;
+	padding-bottom:20px;
+}
+
+</style>
+<link href="css/layout.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+
+<div id="wrapper">
+<div id="header2">
+	<!--#include file="nav.inc" -->
+
+    <div id="clear"></div>
+</div>
+<div id="body">
+
+	<div id="lists">
+
+            <center><div id="pTable">
+                <table style="margin-top:10px">
+                    <tr>
+                        <td><div class="holder"><img src="images/example.png" /><br/><h3>UofM Event</h3>Poster</div></td>
+                        <td><div class="holder"><img src="images/example.png" /><br/><h3>Gig Poster 1</h3>Poster</div></td>
+                        <td><div class="holder"><img src="images/example.png" /><br/><h3>Gig Poster 2</h3>Poster</div></td>
+                        <td><div class="holderSpacer"><img src="images/spacer.png" /><br/></div></td>
+                        
+                    </tr>
+                    
+                </table></div>
+            </center>
+    </div>	
+</div>
+
+    <div id="footer">
+    <center><h2>
+    <a href="./portfolioP1.shtml">Flash</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    <a href="./portfolioP2.shtml">Web Design</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    <font color="#B1856E">Graphic Design</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    <a href="./portfolioP4.shtml">Art</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    <a href="./portfolioP5.shtml">Misc</a></h2></center><br/><br/> <br/>
+<center>
+    	<div class="textMain">Copyright Bobbyli.net 2011</div>
+    <br/>
+   		<div class="textMain"><a href="mailto:bobbyli68@gmail.com">Bobbyli68@gmail.com</a></div>
+    </center>
+</div>
+</div>
+</div>
+</body>
+</html>
