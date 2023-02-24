@@ -457,6 +457,7 @@ h4.thin-title{
 	font-size: 30px;
 	font-weight: 100;
 	margin-bottom: 15px;
+	white-space: nowrap;
 
 }
 h1.thin-title, h2.thin-title, h1 .thin-title, .carousel-caption h4{
